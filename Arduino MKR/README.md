@@ -1,3 +1,3 @@
 ## Arduino MKR Programmbeispiele
 
-Hier sind alle Programmbeispiele zu finden, die auf dem klassischen Arduino oder einem Arduino MKR aufbauen.
+Hier sind alle Programmbeispiele zu finden, die auf einem Arduino MKR aufbauen.
