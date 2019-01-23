@@ -2,4 +2,4 @@
 
 // WiFi
 #define mySSID "your user name"
-#define myPW   "your passowrd"
+#define myPW   "your password"
