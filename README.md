@@ -1,7 +1,7 @@
 # Arduino_Sensorknoten
 
 
-Hier sind die Programmbeispiele des Beitrags "Sensorknoten" veröffentlicht im Sammelwerk "Messen, Steuern, Regeln mit IBM-kompatiblen PCs" des Weka-Verlags abgelegt.
+Hier sind die Programmbeispiele des Beitrags "Arduino-Sensorknoten" veröffentlicht im Sammelwerk "Messen, Steuern, Regeln mit IBM-kompatiblen PCs" des Weka-Verlags abgelegt.
 
 Die folgenden Sensoren werden zum Messen von Umweltdaten eingesetzt:
 * Temperatursensor TMP36
