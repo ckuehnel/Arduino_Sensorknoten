@@ -15,3 +15,5 @@ Die folgenden Sensoren werden zum Messen von Umweltdaten eingesetzt:
 
 Die gemessenen Daten werden über WiFi an einen Server, über LoRaWAN zum TTN Server, wo sie von einem MQTT Client aus bezogen werden können, oder als BT/BLE Data an ein Smartphone o.ä. gesendet. 
 
+Der erste Teil des Beitrags ist in der Ausgabe 170 im Februar 2019 erschienen.
+
